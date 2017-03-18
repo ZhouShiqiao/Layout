@@ -32,5 +32,6 @@
         android:layout_gravity="center_horizontal"
         android:id="@+id/button4"
         android:layout_margin="10dp"
-        android:text="ListView"/>
+        android:text="ListView"
+        android:visibility="gone"/>
 </LinearLayout>
